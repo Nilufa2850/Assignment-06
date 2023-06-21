@@ -12,7 +12,7 @@ int main()
         sum = sum + x*2 ;
         x++;
     }
-    printf("\nSum of first %dth natural no.s is %d: ",n,sum);
+    printf("\nSum of first %dth EVEN natural no.s is %d: ",n,sum);
 
     return 0;
 }
