@@ -12,7 +12,7 @@ int main()
         sum = sum + x*x ;
         x++;
     }
-    printf("\nSum of first %dth natural no.s is %d: ",n,sum);
+    printf("\nSum of squares of first %dth natural no.s is %d: ",n,sum);
 
     return 0;
 }
